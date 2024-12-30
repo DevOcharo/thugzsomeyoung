@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thugzsomeyoung
-- 👀 I’m interested in web development,data analysis and cyber security 
+- 👀 I’m interested in web development and data analysis 
 - 🌱 I’m currently learning python and swift
 - 💞️ I’m looking to collaborate on web development and related projects 
 - 📫 How to reach me: ocharo34@gmail.com
