@@ -1,46 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Tech Stack Profile</title>
-  <style>
-    body {
-      background-color: #1a1a1a;
-      color: #fff;
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 20px;
-    }
-    .container {
-      max-width: 800px;
-      margin: 0 auto;
-    }
-    h1, h2 {
-      text-align: center;
-    }
-    .section {
-      margin-bottom: 20px;
-    }
-    .socials, .tech-stack {
-      display: flex;
-      justify-content: center;
-      gap: 10px;
-      flex-wrap: wrap;
-    }
-    .tech-stack div {
-      padding: 10px;
-      background-color: #333;
-      border-radius: 5px;
-      text-align: center;
-      min-width: 80px;
-    }
-    .github-stats {
-      background-color: #222;
-      padding: 10px;
-      border-radius: 5px;
-    }
-  </style>
+  
 </head>
 <body>
   <div class="container">
@@ -79,22 +40,8 @@
 - Portfolio
 - Postman
 
-## ⭐ GitHub Stats
-- Vercel
-- Azure
-- Angular.js
-- EJS
-- JWT
-- Express.js
-- FastAPI
-- Bootstrap
-- Next.js
-- Node.js
-- Apache
 
-### DevOcharo's GitHub Stats
-- **Total Stars Earned**: [Number]
-- **Total Commits**: [Number]
+
     
   </div>
 </body>
