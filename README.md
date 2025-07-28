@@ -1,37 +1,111 @@
-# About Me
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tech Stack Profile</title>
+  <style>
+    body {
+      background-color: #1a1a1a;
+      color: #fff;
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+    }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+    }
+    h1, h2 {
+      text-align: center;
+    }
+    .section {
+      margin-bottom: 20px;
+    }
+    .socials, .tech-stack {
+      display: flex;
+      justify-content: center;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+    .tech-stack div {
+      padding: 10px;
+      background-color: #333;
+      border-radius: 5px;
+      text-align: center;
+      min-width: 80px;
+    }
+    .github-stats {
+      background-color: #222;
+      padding: 10px;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🌐 About Me:</h1>
+    <div class="section">
+      <p>👋 Hello, I'm Cyprian! I'm a passionate developer with a keen interest in web development, AI devlepment and Machine Learning.</p>
+      <p>💻 I'm currently working at Kenya Projects Organization.</p>
+      <p>🤝 I'm an active collaborator and enjoy working with other developers on open-source projects.</p>
+      <p>🎓 I've honed my skills in various programming languages and frameworks.</p>
+      <p>📚 I'm currently learning React.</p>
+      <p>💬 I'm always open to discussions, collaborations, and new opportunities. If you have an exciting project idea, let's connect!</p>
+      <p>⚡ Q---WITHOUT DEVIATION FROM THE NORM PROGRESS IS NOT POSSIBLE--- </p>
+    </div>
 
-👋 Hello, I'm Cyprian I'm a passionate developer with a keen interest in web design and development, Ai development
-and Machine learning.
+    <h2>🌐 Socials:</h2>
+    <div class="section socials">
+      <div>Discord</div>
+      <div>Instagram</div>
+      <div>LinkedIn</div>
+      <div>Pinterest</div>
+      <div>Reddit</div>
+      <div>Twitch</div>
+      <div>X</div>
+    </div>
 
-💻 I'm currently working at Kenya Projects Organization.
+    <h2>💻 Tech Stack:</h2>
+    <div class="section tech-stack">
+      <div>C++</div>
+      <div>Elixir</div>
+      <div>Markdown</div>
+      <div>JavaScript</div>
+      <div>Python</div>
+      <div>TypeScript</div>
+      <div>HTML5</div>
+      <div>Java</div>
+      <div>Vercel</div>
+      <div>Azure</div>
+      <div>Angular.js</div>
+      <div>EJS</div>
+      <div>JWT</div>
+      <div>Express.js</div>
+      <div>FastAPI</div>
+      <div>Bootstrap</div>
+      <div>Next.js</div>
+      <div>Node.js</div>
+      <div>Apache</div>
+      <div>MongoDB</div>
+      <div>Canvas</div>
+      <div>Figma</div>
+      <div>Codecov</div>
+      <div>Portfolio</div>
+      <div>Postman</div>
+    </div>
 
-🤝 I'm an active collaborator and enjoy working with other developers on open-source projects.
+    <h2>⭐ GitHub Stats:</h2>
+    <div class="section github-stats">
+      <p><strong>DevOcharo's GitHub Stats</strong></p>
+      <p>Total Stars Earned: [Number]</p>
+      <p>Total Commits: [Number]</p>
+    </div>
+  </div>
+</body>
+</html>
 
-📚 I've honed my skills in various programming languages and frameworks.
 
-🌱 I'm currently learning React.
-
-💬 I'm always open to discussions, collaborations, and new opportunities. If you have an exciting project idea, let's connect!
-
-⚡ Q...WITHOUT DEVIATION FROM THE NORM PROGRESS IS NOT POSSIBLE----
-
-## 🌐 Socials:
-
-[<img src="https://img.icons8.com/color/48/000000/instagram.png" alt="Instagram" width="24"/>](https://www.instagram.com/_.ocharo?igsh=MW1ocXAxcG8yZGRtOA==) 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="24"/>](https://www.linkedin.com/in/cyprian-ocharo?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
-[<img src="https://img.icons8.com/color/48/000000/pinterest.png" alt="Pinterest" width="24"/>](https://pin.it/7Ep0LXEaJ) 
-[<img src="https://img.icons8.com/color/48/000000/twitch.png" alt="Twitch" width="24"/>](your-twitch-link) 
-[<img src="https://img.icons8.com/color/48/000000/x.png" alt="X" width="24"/>](https://x.com/thugzsome_young?t=qLzfqLLZET7rTG8xXnMfuA&s=09)
-
-## 💻 Tech Stack:
-
-<div style="border: 2px solid #000; padding: 10px;">
-| <img src="https://img.icons8.com/color/48/000000/c.png" alt="C" width="24"/> C | <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="24"/> JavaScript | <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="24"/> Python 
-| <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="24"/> TypeScript | <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="24"/> HTML5 | <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="24"/> Java | <img src="https://img.icons8.com/color/48/000000/vercel.png" alt="Vercel" width="24"/> Vercel |
-| <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="AngularJS" width="24"/> AngularJS | <img src="https://img.icons8.com/color/48/000000/express-js.png" alt="Express.js" width="24"/> Express.js | <img src="https://img.icons8.com/color/48/000000/fastapi.png" alt="FastAPI" width="24"/> FastAPI | <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="24"/> Bootstrap | <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js" width="24"/> Next.js |
-| <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="24"/> Node.js | <img src="https://img.icons8.com/color/48/000000/apache.png" alt="Apache" width="24"/> Apache | <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="24"/> MongoDB | <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="24"/> Figma |
-| <img src="https://img.icons8.com/color/48/000000/portfolio.png" alt="Portfolio" width="24"/> Portfolio | <img src="https://img.icons8.com/color/48/000000/postman.png" alt="Postman" width="24"/> Postman |
-</div>
 
 ## 📊 GitHub Stats:
 
