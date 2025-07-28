@@ -54,53 +54,48 @@
       <p>💬 I'm always open to discussions, collaborations, and new opportunities. If you have an exciting project idea, let's connect!</p>
       <p>⚡ Q---WITHOUT DEVIATION FROM THE NORM PROGRESS IS NOT POSSIBLE--- </p>
     </div>
+            ## 🌐 Socials
+- Discord
+- Instagram
+- LinkedIn
+- Pinterest
+- Reddit
+- Twitch
+- X
 
-    <h2>🌐 Socials:</h2>
-    <div class="section socials">
-      <div>Discord</div>
-      <div>Instagram</div>
-      <div>LinkedIn</div>
-      <div>Pinterest</div>
-      <div>Reddit</div>
-      <div>Twitch</div>
-      <div>X</div>
-    </div>
+## 💻 Tech Stack
+- C++
+- Elixir
+- Markdown
+- JavaScript
+- Python
+- TypeScript
+- HTML5
+- Java
+- MongoDB
+- Canvas
+- Figma
+- Codecov
+- Portfolio
+- Postman
 
-    <h2>💻 Tech Stack:</h2>
-    <div class="section tech-stack">
-      <div>C++</div>
-      <div>Elixir</div>
-      <div>Markdown</div>
-      <div>JavaScript</div>
-      <div>Python</div>
-      <div>TypeScript</div>
-      <div>HTML5</div>
-      <div>Java</div>
-      <div>Vercel</div>
-      <div>Azure</div>
-      <div>Angular.js</div>
-      <div>EJS</div>
-      <div>JWT</div>
-      <div>Express.js</div>
-      <div>FastAPI</div>
-      <div>Bootstrap</div>
-      <div>Next.js</div>
-      <div>Node.js</div>
-      <div>Apache</div>
-      <div>MongoDB</div>
-      <div>Canvas</div>
-      <div>Figma</div>
-      <div>Codecov</div>
-      <div>Portfolio</div>
-      <div>Postman</div>
-    </div>
+## ⭐ GitHub Stats
+- Vercel
+- Azure
+- Angular.js
+- EJS
+- JWT
+- Express.js
+- FastAPI
+- Bootstrap
+- Next.js
+- Node.js
+- Apache
 
-    <h2>⭐ GitHub Stats:</h2>
-    <div class="section github-stats">
-      <p><strong>DevOcharo's GitHub Stats</strong></p>
-      <p>Total Stars Earned: [Number]</p>
-      <p>Total Commits: [Number]</p>
-    </div>
+### DevOcharo's GitHub Stats
+- **Total Stars Earned**: [Number]
+- **Total Commits**: [Number]
+    
   </div>
 </body>
 </html>
